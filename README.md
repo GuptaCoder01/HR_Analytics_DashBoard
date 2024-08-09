@@ -9,8 +9,8 @@ The HR department is responsible for monitoring and managing various aspects of 
 >The HR department lacks visibility into the total number of employees, making it challenging to assess workforce size and plan for future growth or downsizing effectively.
 
 # 2. Attrition Count:
-
-The organization lacks a standardized method to track employee attrition, resulting in incomplete and unreliable data on the number of employees who have left the organization.
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+<The organization lacks a standardized method to track employee attrition, resulting in incomplete and unreliable data on the number of employees who have left the organization.
 
 # 3. Attrition Rate:
 
