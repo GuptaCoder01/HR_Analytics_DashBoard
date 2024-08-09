@@ -6,7 +6,7 @@ The HR department is responsible for monitoring and managing various aspects of 
 
 # 1. Employee Count:
 
-The HR department lacks visibility into the total number of employees, making it challenging to assess workforce size and plan for future growth or downsizing effectively.
+>The HR department lacks visibility into the total number of employees, making it challenging to assess workforce size and plan for future growth or downsizing effectively.
 
 # 2. Attrition Count:
 
