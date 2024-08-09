@@ -11,7 +11,7 @@ The HR department is responsible for monitoring and managing various aspects of 
 >The organization lacks a standardized method to track employee attrition, resulting in incomplete and unreliable data on the number of employees who have left the organization.
 
 # 3. Attrition Rate:
-/Without a clear measure of attrition rate, the organization cannot assess the overall turnover level or compare it with industry benchmarks, hindering the ability to gauge employee satisfaction and engagement.
+@Without a clear measure of attrition rate, the organization cannot assess the overall turnover level or compare it with industry benchmarks, hindering the ability to gauge employee satisfaction and engagement.
 
 # 4. Active Employees:
 >The organization lacks a mechanism to differentiate between active and inactive employees, leading to difficulties in accurately assessing the current workforce's productivity and capacity.
